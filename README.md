@@ -1,4 +1,4 @@
-# -ignite-Chalenge02-React-ShoppingCartHook
+# -ignite-Chalenge03-React-ShoppingCartHook
 
 ### O que é o ignite? 
 <p align="justify">O ignite é um curso da [RocketSeat] (https://app.rocketseat.com.br) que contém várias trilhas (cursos para especialidades diferentes, sendo elas: </p>
