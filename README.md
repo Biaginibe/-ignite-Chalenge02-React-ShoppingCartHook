@@ -25,4 +25,4 @@
 </ul>
 
 
-> Status do Projeto: Em desenvolvimento :woman_technologist:
+> Status do Projeto: Concluído :heavy_check_mark:
